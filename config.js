@@ -1,2 +1,2 @@
-exports.TOKEN = "NzE1MjI5MzE0NzE0NDM1NTg0.Xs6LNA.DyL43oOmFfvseIoO8Xt7UqS6S9M";
+exports.TOKEN = "ton token"
 exports.PREFIX = "a!";
